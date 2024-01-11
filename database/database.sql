@@ -1,4 +1,4 @@
--- Harbor security scan 
+-- Harbor security scan check
 -- PostgreSQL database dump
 --
 
